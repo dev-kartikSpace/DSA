@@ -26,4 +26,5 @@ public:
         }
         return s.substr(startIdx, maxLen);
     }
+    
 };
