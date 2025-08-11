@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/dev-kartikSpace/DSA/tree/master/0907-koko-eating-bananas) |
+| [2529-range-product-queries-of-powers](https://github.com/dev-kartikSpace/DSA/tree/master/2529-range-product-queries-of-powers) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dev-kartikSpace/DSA/tree/master/0005-longest-palindromic-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2529-range-product-queries-of-powers](https://github.com/dev-kartikSpace/DSA/tree/master/2529-range-product-queries-of-powers) |
+## Prefix Sum
+|  |
+| ------- |
+| [2529-range-product-queries-of-powers](https://github.com/dev-kartikSpace/DSA/tree/master/2529-range-product-queries-of-powers) |
 <!---LeetCode Topics End-->
