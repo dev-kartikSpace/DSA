@@ -4,7 +4,7 @@ using namespace std;
 class Solution {
 public:
     int mod = 1e9 + 7;
-    vector<vector<int>> dp; // dp[remainingSum][currentNumber]
+    vector<vector<int>> dp;
 
     int numberOfWays(int n, int x) {
         int lastPossibleValue = SearchNumber(n, x);
