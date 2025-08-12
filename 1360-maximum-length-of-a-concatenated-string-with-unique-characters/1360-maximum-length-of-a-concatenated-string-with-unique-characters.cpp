@@ -29,7 +29,7 @@ bool hasDuplicate(string &s1 , string &s2){
     }
 
     int maxLength(vector<string>& arr) {
-        string temp = ""; // no concat
+        string temp = "";
         int n = arr.size();
         int i = 0;
         return solve(i, arr, temp, n);
