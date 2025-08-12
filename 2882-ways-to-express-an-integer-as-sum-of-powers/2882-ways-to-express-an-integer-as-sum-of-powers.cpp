@@ -1,17 +1,12 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
     int mod = 1e9 + 7;
     vector<vector<int>> dp;
-
     int numberOfWays(int n, int x) {
         int lastPossibleValue = SearchNumber(n, x);
         dp.assign(n + 1, vector<int>(lastPossibleValue + 2, -1));
         return dfs(n, x, 1, lastPossibleValue);
     }
-
 private:
     int SearchNumber(int n, int x) {
         int start = 1, end = n, ans = 1;
@@ -31,7 +26,6 @@ private:
         }
         return ans;
     }
-
     int dfs(int n, int x, int curr, int last) {
         if (n == 0) return 1;
         if (n < 0 || curr > last) return 0;
