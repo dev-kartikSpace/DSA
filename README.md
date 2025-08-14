@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/dev-kartikSpace/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0273-integer-to-english-words](https://github.com/dev-kartikSpace/DSA/tree/master/0273-integer-to-english-words) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/dev-kartikSpace/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/dev-kartikSpace/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
