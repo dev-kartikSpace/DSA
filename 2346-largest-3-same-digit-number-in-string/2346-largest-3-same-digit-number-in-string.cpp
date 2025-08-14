@@ -1,27 +1,30 @@
 class Solution {
 public:
     string largestGoodInteger(string num) {
-        if (num.size() < 3) return "";
+        if (num.size() < 3)
+            return "";
 
-        char bestDigit = 0;  // track largest digit found
-        int count = 1;       // current streak counter
         char prev = num[0];
+        int count = 1;
+        char ans = 0;
 
         for (int i = 1; i < num.size(); i++) {
-            if (num[i] == prev) {
+            char curr = num[i];
+            if (prev == curr) {
                 count++;
-                if (count == 3) { 
-                    if (prev > bestDigit) {
-                        bestDigit = prev;
+                if (count == 3) {
+                    if (prev > ans) {
+                        ans = prev;
                     }
                 }
             } else {
-                prev = num[i];
+                prev = curr;
                 count = 1;
             }
         }
 
-        if (bestDigit == 0) return "";
-        return string(3, bestDigit);
+        if (ans == 0)
+            return "";
+        return string(3, ans);
     }
 };
