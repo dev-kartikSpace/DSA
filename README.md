@@ -42,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dev-kartikSpace/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/dev-kartikSpace/DSA/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dev-kartikSpace/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0273-integer-to-english-words](https://github.com/dev-kartikSpace/DSA/tree/master/0273-integer-to-english-words) |
+| [0392-is-subsequence](https://github.com/dev-kartikSpace/DSA/tree/master/0392-is-subsequence) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/dev-kartikSpace/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/dev-kartikSpace/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Dynamic Programming
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/dev-kartikSpace/DSA/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/dev-kartikSpace/DSA/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/dev-kartikSpace/DSA/tree/master/0343-integer-break) |
+| [0392-is-subsequence](https://github.com/dev-kartikSpace/DSA/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/dev-kartikSpace/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/dev-kartikSpace/DSA/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Bit Manipulation
