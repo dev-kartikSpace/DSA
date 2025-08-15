@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/dev-kartikSpace/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/dev-kartikSpace/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/dev-kartikSpace/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/dev-kartikSpace/DSA/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0967-minimum-falling-path-sum) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/dev-kartikSpace/DSA/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/dev-kartikSpace/DSA/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/dev-kartikSpace/DSA/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/dev-kartikSpace/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/dev-kartikSpace/DSA/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
