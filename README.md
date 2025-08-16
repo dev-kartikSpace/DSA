@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/dev-kartikSpace/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/dev-kartikSpace/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/dev-kartikSpace/DSA/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [2529-range-product-queries-of-powers](https://github.com/dev-kartikSpace/DSA/tree/master/2529-range-product-queries-of-powers) |
 ## Binary Search
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/dev-kartikSpace/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/dev-kartikSpace/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/dev-kartikSpace/DSA/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/dev-kartikSpace/DSA/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Bit Manipulation
 |  |
