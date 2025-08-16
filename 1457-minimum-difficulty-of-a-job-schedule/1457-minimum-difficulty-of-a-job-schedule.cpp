@@ -5,15 +5,12 @@ public:
 
     int solve(int idx, int day, vector<int>& jobDifficulty, int d) {
         if (day == d) {
-            if (idx >= n) return INT_MAX; 
             int maxD = 0;
             for (int i = idx; i < n; i++) {
                 maxD = max(maxD, jobDifficulty[i]);
             }
             return maxD;
         }
-
-        if (idx > n - (d - day + 1)) return INT_MAX;
         if (dp[idx][day] != -1)
             return dp[idx][day];
 
