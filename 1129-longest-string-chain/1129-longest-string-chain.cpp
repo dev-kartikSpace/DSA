@@ -2,7 +2,7 @@ class Solution {
 public:
     unordered_set<string> st;
     unordered_map<string,int> dp;
-    int bfs(string &s){
+    int bfs(string s){
         int n = s.size();
         if (n == 1) {
             return 1;
