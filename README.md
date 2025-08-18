@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/dev-kartikSpace/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0900-reordered-power-of-2](https://github.com/dev-kartikSpace/DSA/tree/master/0900-reordered-power-of-2) |
 ## Counting
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/dev-kartikSpace/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0646-maximum-length-of-pair-chain](https://github.com/dev-kartikSpace/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0679-24-game](https://github.com/dev-kartikSpace/DSA/tree/master/0679-24-game) |
 | [0747-min-cost-climbing-stairs](https://github.com/dev-kartikSpace/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/dev-kartikSpace/DSA/tree/master/0907-koko-eating-bananas) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/dev-kartikSpace/DSA/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/dev-kartikSpace/DSA/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0646-maximum-length-of-pair-chain](https://github.com/dev-kartikSpace/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-min-cost-climbing-stairs](https://github.com/dev-kartikSpace/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0867-new-21-game](https://github.com/dev-kartikSpace/DSA/tree/master/0867-new-21-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/dev-kartikSpace/DSA/tree/master/0954-maximum-sum-circular-subarray) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/dev-kartikSpace/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1448-maximum-69-number](https://github.com/dev-kartikSpace/DSA/tree/master/1448-maximum-69-number) |
 ## Divide and Conquer
 |  |
