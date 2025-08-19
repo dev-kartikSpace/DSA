@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/dev-kartikSpace/DSA/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/dev-kartikSpace/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/dev-kartikSpace/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0213-house-robber-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dev-kartikSpace/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/dev-kartikSpace/DSA/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/dev-kartikSpace/DSA/tree/master/0079-word-search) |
 | [0273-integer-to-english-words](https://github.com/dev-kartikSpace/DSA/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/dev-kartikSpace/DSA/tree/master/0392-is-subsequence) |
 | [1129-longest-string-chain](https://github.com/dev-kartikSpace/DSA/tree/master/1129-longest-string-chain) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dev-kartikSpace/DSA/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/dev-kartikSpace/DSA/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/dev-kartikSpace/DSA/tree/master/0679-24-game) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/dev-kartikSpace/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/dev-kartikSpace/DSA/tree/master/0079-word-search) |
 | [0967-minimum-falling-path-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0967-minimum-falling-path-sum) |
 ## Greedy
 |  |
@@ -173,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/dev-kartikSpace/DSA/tree/master/0867-new-21-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/dev-kartikSpace/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
