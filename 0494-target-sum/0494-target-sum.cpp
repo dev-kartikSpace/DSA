@@ -16,7 +16,6 @@ public:
         int n = nums.size();
         int sum = 0;
         for (int x : nums) sum += x;
-        // The possible range of total is [-sum...sum]
         vector<vector<int>> dp(n + 1, vector<int>(2 * sum + 1, -1));
         return solve(0, nums, target, 0, dp, sum);
     }
