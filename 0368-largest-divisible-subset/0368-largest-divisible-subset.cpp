@@ -2,33 +2,24 @@ class Solution {
 public:
     vector<int> nums;
     int n;
-    vector<vector<int>> dp;   // dp[i][prev+1] → memoization
-    vector<vector<int>> path; // to store best subsets
+    vector<vector<int>> dp;
+    vector<vector<int>> path;
 
-    // Recursive function to return best subset starting at i with prev index
     vector<int> solve(int i, int prev) {
-        if (i == n) return {}; // no elements left
-
+        if (i == n) return {};
         if (dp[i][prev+1] != -1) 
             return path[i*(n+1) + (prev+1)];
 
-        // Option 1: skip nums[i]
         vector<int> notTake = solve(i+1, prev);
-
-        // Option 2: take nums[i] (if divisible with prev)
         vector<int> take;
         if (prev == -1 || nums[i] % nums[prev] == 0) {
             take = solve(i+1, i);
-            take.insert(take.begin(), nums[i]); // add current number
+            take.insert(take.begin(), nums[i]);
         }
 
-        // Choose bigger subset
         vector<int> best = (take.size() > notTake.size()) ? take : notTake;
-
-        // Memoize
         dp[i][prev+1] = best.size();
         path[i*(n+1) + (prev+1)] = best;
-
         return best;
     }
 
@@ -38,7 +29,6 @@ public:
         n = nums.size();
         dp.assign(n, vector<int>(n+1, -1));
         path.assign(n*(n+1), {});
-
         return solve(0, -1);
     }
 };
