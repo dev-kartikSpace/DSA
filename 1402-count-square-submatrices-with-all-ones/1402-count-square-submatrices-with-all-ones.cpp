@@ -2,7 +2,6 @@ class Solution {
 public:
     int m, n;
 
-    // Check if a square of size k starting at (row, col) is valid (all 1s)
     bool isValidSquare(int row, int col, int k, vector<vector<int>>& matrix) {
         if (row + k > m || col + k > n) return false;
         for (int i = row; i < row + k; i++) {
@@ -14,18 +13,15 @@ public:
     }
 
     int solve(int row, int col, vector<vector<int>>& matrix) {
-        // Base case: out of bounds
         if (row >= m || col >= n) return 0;
 
-        // Count squares starting at (row, col)
         int count = 0;
         if (matrix[row][col] == 1) {
-            // Check squares of size 1, 2, ..., up to max possible size
             for (int k = 1; k <= min(m - row, n - col); k++) {
                 if (!isValidSquare(row, col, k, matrix)) {
-                    break; // No larger square is possible
+                    break;
                 }
-                count++; // Valid square of size k
+                count++; 
             }
         }
 
