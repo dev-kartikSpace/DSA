@@ -19,30 +19,29 @@ public:
     }
 };
 
-
 // class Solution {
 // public:
 //     int m, n;
-//     int solve(vector<vector<int>>& grid, int row, int col, int minRow,
-//               int maxCol) {
+//     void solve(vector<vector<int>>& grid, int row, int col, 
+//                int& minRow, int& minCol, int& maxRow, int& maxCol) {
+//         if (row >= m || col >= n) return;
 
-//         if (row >= m || col >= n)
-//             return 0;
-
-//         if (grid[i][j] == 1) {
-//             minRow = min(minRow, i);
-//             maxRow = max(maxRow, i);
-//             minCol = min(minCol, j);
-//             maxCol = max(maxCol, j);
+//         if (grid[row][col] == 1) {
+//             minRow = min(minRow, row);
+//             maxRow = max(maxRow, row);
+//             minCol = min(minCol, col);
+//             maxCol = max(maxCol, col);
 //         }
-//         int right = solve(grid, row, col + 1, minRow, maxCol);
-//         int down = solve(grid, row + 1, col, minRow, maxCol);
-
-//         return minRow * maxCol;
+//         solve(grid, row, col + 1, minRow, minCol, maxRow, maxCol);
+//         solve(grid, row + 1, col, minRow, minCol, maxRow, maxCol);
 //     }
+    
 //     int minimumArea(vector<vector<int>>& grid) {
 //         m = grid.size();
 //         n = grid[0].size();
-//         return solve(grid, 0, 0, 0, 0);
+//         int minRow = m, minCol = n, maxRow = -1, maxCol = -1;
+//         solve(grid, 0, 0, minRow, minCol, maxRow, maxCol);
+//         if (minRow == m) return 0; 
+//         return (maxRow - minRow + 1) * (maxCol - minCol + 1);
 //     }
 // };
