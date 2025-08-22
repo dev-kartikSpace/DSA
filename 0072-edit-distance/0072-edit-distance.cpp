@@ -3,12 +3,9 @@ public:
     int n1, n2;
     int solve(string word1, string word2, int i, int j,
               vector<vector<int>> &dp) {
-
         if (i == n1) return n2 - j;
         if (j == n2) return n1 - i;
-
         if (dp[i][j] != -1) return dp[i][j];
-
         if(word1[i] == word2[j]){
             return dp[i][j] = solve(word1, word2, i+1, j+1, dp);
         }
