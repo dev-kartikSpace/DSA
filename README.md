@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/dev-kartikSpace/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dev-kartikSpace/DSA/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0273-integer-to-english-words](https://github.com/dev-kartikSpace/DSA/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/dev-kartikSpace/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dev-kartikSpace/DSA/tree/master/0342-power-of-four) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/dev-kartikSpace/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/dev-kartikSpace/DSA/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/dev-kartikSpace/DSA/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/dev-kartikSpace/DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/dev-kartikSpace/DSA/tree/master/0198-house-robber) |
@@ -202,14 +204,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0098-validate-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0098-validate-binary-search-tree) |
 ## Stack
 |  |
