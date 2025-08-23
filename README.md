@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0039-combination-sum) |
 | [0063-unique-paths-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/dev-kartikSpace/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/dev-kartikSpace/DSA/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/dev-kartikSpace/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/dev-kartikSpace/DSA/tree/master/0198-house-robber) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/dev-kartikSpace/DSA/tree/master/0078-subsets) |
 | [0338-counting-bits](https://github.com/dev-kartikSpace/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/dev-kartikSpace/DSA/tree/master/0342-power-of-four) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/dev-kartikSpace/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/dev-kartikSpace/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/dev-kartikSpace/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/dev-kartikSpace/DSA/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/dev-kartikSpace/DSA/tree/master/0131-palindrome-partitioning) |
