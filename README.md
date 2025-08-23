@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/dev-kartikSpace/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-min-cost-climbing-stairs](https://github.com/dev-kartikSpace/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0867-new-21-game](https://github.com/dev-kartikSpace/DSA/tree/master/0867-new-21-game) |
+| [0930-all-possible-full-binary-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0930-all-possible-full-binary-trees) |
 | [0954-maximum-sum-circular-subarray](https://github.com/dev-kartikSpace/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1129-longest-string-chain](https://github.com/dev-kartikSpace/DSA/tree/master/1129-longest-string-chain) |
@@ -155,10 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/dev-kartikSpace/DSA/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/dev-kartikSpace/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dev-kartikSpace/DSA/tree/master/0342-power-of-four) |
+| [0930-all-possible-full-binary-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0930-all-possible-full-binary-trees) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dev-kartikSpace/DSA/tree/master/0070-climbing-stairs) |
+| [0930-all-possible-full-binary-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0930-all-possible-full-binary-trees) |
 ## Combinatorics
 |  |
 | ------- |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0930-all-possible-full-binary-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0930-all-possible-full-binary-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0930-all-possible-full-binary-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0930-all-possible-full-binary-trees) |
 ## Stack
 |  |
 | ------- |
