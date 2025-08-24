@@ -1,8 +1,7 @@
 class Solution {
 public:
     string gcdOfStrings(string str1, string str2) {
-        if (str1 + str2 != str2 + str1) return "";
-        int g = gcd((int)str1.size(), (int)str2.size());
-        return str1.substr(0, g);
+        return (str1 + str2 == str2 + str1) ? 
+        str1.substr(0, gcd((int)str1.size(), (int)str2.size())) : "";
     } 
 };
