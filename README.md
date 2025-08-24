@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/dev-kartikSpace/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/dev-kartikSpace/DSA/tree/master/0392-is-subsequence) |
 | [1129-longest-string-chain](https://github.com/dev-kartikSpace/DSA/tree/master/1129-longest-string-chain) |
+| [1894-merge-strings-alternately](https://github.com/dev-kartikSpace/DSA/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/dev-kartikSpace/DSA/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/dev-kartikSpace/DSA/tree/master/1250-longest-common-subsequence) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/dev-kartikSpace/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1894-merge-strings-alternately](https://github.com/dev-kartikSpace/DSA/tree/master/1894-merge-strings-alternately) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/dev-kartikSpace/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Dynamic Programming
 |  |
