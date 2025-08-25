@@ -5,9 +5,8 @@ void solve(vector<int>& nums, vector<int> &path, vector<vector<int>> &result, ve
             result.push_back(path);
             return;
         }
-
     for(int i = 0; i<nums.size(); i++){
-        if(used[i]) continue; //skip the duplicates
+        if(used[i]) continue; 
 
         if(i > 0 && nums[i] == nums[i-1] && !used[i-1]) continue;
 
