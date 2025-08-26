@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dev-kartikSpace/DSA/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/dev-kartikSpace/DSA/tree/master/0046-permutations) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dev-kartikSpace/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/dev-kartikSpace/DSA/tree/master/0011-container-with-most-water) |
 | [0392-is-subsequence](https://github.com/dev-kartikSpace/DSA/tree/master/0392-is-subsequence) |
 | [1129-longest-string-chain](https://github.com/dev-kartikSpace/DSA/tree/master/1129-longest-string-chain) |
 | [1894-merge-strings-alternately](https://github.com/dev-kartikSpace/DSA/tree/master/1894-merge-strings-alternately) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dev-kartikSpace/DSA/tree/master/0011-container-with-most-water) |
 | [0646-maximum-length-of-pair-chain](https://github.com/dev-kartikSpace/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1448-maximum-69-number](https://github.com/dev-kartikSpace/DSA/tree/master/1448-maximum-69-number) |
 ## Divide and Conquer
