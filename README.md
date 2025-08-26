@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/dev-kartikSpace/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/dev-kartikSpace/DSA/tree/master/0011-container-with-most-water) |
 | [0392-is-subsequence](https://github.com/dev-kartikSpace/DSA/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/dev-kartikSpace/DSA/tree/master/0443-string-compression) |
 | [1129-longest-string-chain](https://github.com/dev-kartikSpace/DSA/tree/master/1129-longest-string-chain) |
 | [1894-merge-strings-alternately](https://github.com/dev-kartikSpace/DSA/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/dev-kartikSpace/DSA/tree/master/0131-palindrome-partitioning) |
 | [0273-integer-to-english-words](https://github.com/dev-kartikSpace/DSA/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/dev-kartikSpace/DSA/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/dev-kartikSpace/DSA/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/dev-kartikSpace/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1129-longest-string-chain](https://github.com/dev-kartikSpace/DSA/tree/master/1129-longest-string-chain) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dev-kartikSpace/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
