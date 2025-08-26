@@ -10,7 +10,6 @@ public:
                 ++i;
             }
             chars[ans++] = letter;
-
             if (count > 1) {
                 for (const char c : to_string(count)) {
                     chars[ans++] = c;
