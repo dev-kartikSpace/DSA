@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-maximum-alternating-subsequence-sum](https://github.com/dev-kartikSpace/DSA/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/dev-kartikSpace/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/dev-kartikSpace/DSA/tree/master/2529-range-product-queries-of-powers) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/dev-kartikSpace/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/dev-kartikSpace/DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/dev-kartikSpace/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Binary Search
