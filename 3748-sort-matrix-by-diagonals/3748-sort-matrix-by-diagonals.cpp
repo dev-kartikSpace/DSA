@@ -9,7 +9,6 @@ public:
     vector<vector<int>> sortMatrix(vector<vector<int>>& grid) {
         int n = grid.size();
 
-        // Sort diagonals in the bottom-left triangle (including the main diagonal)
         for (int i = 0; i < n; ++i) {
             vector<int> diagonal;
             int row = i;
@@ -32,7 +31,7 @@ public:
             }
         }
         
-        // Sort diagonals in the top-right triangle
+        // Sort in the top-right triangle
         for (int j = 1; j < n; ++j) {
             vector<int> diagonal;
             int row = 0;
