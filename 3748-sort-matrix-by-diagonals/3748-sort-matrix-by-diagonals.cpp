@@ -18,7 +18,6 @@ public:
                 row++;
                 col++;
             }
-            // Sort in non-increasing order
             sort(diagonal.rbegin(), diagonal.rend());
             
             row = i;
@@ -31,7 +30,6 @@ public:
             }
         }
         
-        // Sort in the top-right triangle
         for (int j = 1; j < n; ++j) {
             vector<int> diagonal;
             int row = 0;
@@ -41,7 +39,6 @@ public:
                 row++;
                 col++;
             }
-            // Sort in non-decreasing order
             sort(diagonal.begin(), diagonal.end());
 
             row = 0;
