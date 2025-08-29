@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/dev-kartikSpace/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/dev-kartikSpace/DSA/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/dev-kartikSpace/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/dev-kartikSpace/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Sorting
 |  |
 | ------- |
