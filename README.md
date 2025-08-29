@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/dev-kartikSpace/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/dev-kartikSpace/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0213-house-robber-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/dev-kartikSpace/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/dev-kartikSpace/DSA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0494-target-sum) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dev-kartikSpace/DSA/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/dev-kartikSpace/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/dev-kartikSpace/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1448-maximum-69-number](https://github.com/dev-kartikSpace/DSA/tree/master/1448-maximum-69-number) |
 ## Divide and Conquer
