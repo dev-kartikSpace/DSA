@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dev-kartikSpace/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/dev-kartikSpace/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0273-integer-to-english-words](https://github.com/dev-kartikSpace/DSA/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/dev-kartikSpace/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dev-kartikSpace/DSA/tree/master/0342-power-of-four) |
@@ -304,5 +305,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dev-kartikSpace/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/dev-kartikSpace/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/dev-kartikSpace/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
