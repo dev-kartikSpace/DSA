@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/dev-kartikSpace/DSA/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/dev-kartikSpace/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0900-reordered-power-of-2](https://github.com/dev-kartikSpace/DSA/tree/master/0900-reordered-power-of-2) |
 | [1129-longest-string-chain](https://github.com/dev-kartikSpace/DSA/tree/master/1129-longest-string-chain) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/dev-kartikSpace/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/dev-kartikSpace/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/dev-kartikSpace/DSA/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/dev-kartikSpace/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/dev-kartikSpace/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0213-house-robber-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/dev-kartikSpace/DSA/tree/master/0334-increasing-triplet-subsequence) |
@@ -307,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/dev-kartikSpace/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/dev-kartikSpace/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/dev-kartikSpace/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/dev-kartikSpace/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
