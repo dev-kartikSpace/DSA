@@ -10,8 +10,8 @@ public:
             }
         }
 
-        int start_i = row/3 * 3;
-        int start_j = col/3 * 3;
+        int start_i = row / 3 * 3;
+        int start_j = col / 3 * 3;
 
         for (int k = 0; k < 3; k++) {
             for (int l = 0; l < 3; l++) {
