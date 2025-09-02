@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dev-kartikSpace/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/dev-kartikSpace/DSA/tree/master/0011-container-with-most-water) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0392-is-subsequence](https://github.com/dev-kartikSpace/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/dev-kartikSpace/DSA/tree/master/0443-string-compression) |
 | [1129-longest-string-chain](https://github.com/dev-kartikSpace/DSA/tree/master/1129-longest-string-chain) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dev-kartikSpace/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/dev-kartikSpace/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/dev-kartikSpace/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Union Find
 |  |
