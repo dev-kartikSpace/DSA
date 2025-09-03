@@ -15,20 +15,23 @@ public:
         ListNode dummy(0);
         dummy.next = head;
         ListNode* prev = &dummy;
-        for(int i = 1; i < left; i++) {
+        for(int i=1; i< left; i++){
             prev = prev->next;
         }
         ListNode* curr = prev->next;
         ListNode* next = nullptr;
         ListNode* prevRev = nullptr;
-        for(int i = 0; i <= right-left; i++) {
+        for(int i=0; i<=right-left; i++){
             next = curr->next;
             curr->next = prevRev;
             prevRev = curr;
             curr = next;
         }
-        prev -> next -> next = curr;
+
+        prev->next->next = curr;
         prev->next = prevRev;
-        return dummy.next;
+
+        return  dummy.next;
+        
     }
 };
