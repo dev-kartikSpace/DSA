@@ -1,23 +1,19 @@
 class Solution {
 public:
-    int Check(const string& s) {
-        int r = s.length() -1;
-        int l = 0;
-        while(l<r){
-            if(s[l] != s[r]){
-                return false;
-            }
-            l++;
-            r--;
-        }
-        return true;
+int t[1001][1001];
+    int Check(const string& s, int i, int j) {
+        if(i>j) return true;
+        if(t[i][j] != -1) return t[i][j];
+        if(s[i] == s[j]) return t[i][j] = Check(s, i+1, j-1);
+        return t[i][j] = false;
     }
     int countSubstrings(string s) {
         int n = s.length();
-        int count = 0;//include individual chars
+        int count = 0;
+        memset(t, -1, sizeof(t));
         for(int i=0; i<n; i++){
             for(int j= i; j<n; j++){
-                if(Check(s.substr(i, j-i+1))){
+                if(Check(s, i, j)){
                     count++;
                 }
             }
