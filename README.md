@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/dev-kartikSpace/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/dev-kartikSpace/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/dev-kartikSpace/DSA/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/dev-kartikSpace/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/dev-kartikSpace/DSA/tree/master/0139-word-break) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/dev-kartikSpace/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0113-path-sum-ii) |
 | [0930-all-possible-full-binary-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0930-all-possible-full-binary-trees) |
 ## Binary Search Tree
@@ -308,12 +311,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0113-path-sum-ii) |
 | [0930-all-possible-full-binary-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0930-all-possible-full-binary-trees) |
 ## Stack
