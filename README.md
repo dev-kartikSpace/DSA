@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/dev-kartikSpace/DSA/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0113-path-sum-ii) |
 ## Tree
 |  |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0113-path-sum-ii) |
 | [0930-all-possible-full-binary-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0930-all-possible-full-binary-trees) |
 ## Binary Search Tree
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0113-path-sum-ii) |
 | [0930-all-possible-full-binary-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0930-all-possible-full-binary-trees) |
 ## Stack
@@ -359,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/dev-kartikSpace/DSA/tree/master/0139-word-break) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
