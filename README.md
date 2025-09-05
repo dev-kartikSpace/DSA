@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/dev-kartikSpace/DSA/tree/master/0900-reordered-power-of-2) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/dev-kartikSpace/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/dev-kartikSpace/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/dev-kartikSpace/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/dev-kartikSpace/DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/dev-kartikSpace/DSA/tree/master/0342-power-of-four) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/dev-kartikSpace/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2529-range-product-queries-of-powers](https://github.com/dev-kartikSpace/DSA/tree/master/2529-range-product-queries-of-powers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/dev-kartikSpace/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -366,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/dev-kartikSpace/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
