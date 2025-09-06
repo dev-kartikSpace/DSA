@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/dev-kartikSpace/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/dev-kartikSpace/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/dev-kartikSpace/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/dev-kartikSpace/DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/dev-kartikSpace/DSA/tree/master/3830-find-closest-person) |
 ## Sorting
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/dev-kartikSpace/DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/dev-kartikSpace/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/dev-kartikSpace/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/dev-kartikSpace/DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/dev-kartikSpace/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/dev-kartikSpace/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2529-range-product-queries-of-powers](https://github.com/dev-kartikSpace/DSA/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/dev-kartikSpace/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/dev-kartikSpace/DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Prefix Sum
 |  |
 | ------- |
