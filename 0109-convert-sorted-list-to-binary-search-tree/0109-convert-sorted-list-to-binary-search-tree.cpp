@@ -29,14 +29,10 @@ public:
             slow = slow->next;
             fast = fast->next->next;
         }
-
         TreeNode* root = new TreeNode(slow->val);
         if (prev) prev->next = nullptr;
-
         root->left = sortedListToBST(head == slow ? nullptr : head);
         root->right = sortedListToBST(slow->next);
-
         return root;
-
     }
 };
