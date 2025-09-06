@@ -1,14 +1,36 @@
-//TEMP SOLUTION
 class Solution {
 public:
     int makeTheIntegerZero(int num1, int num2) {
-        if (num2==0) return popcount(unsigned(num1));
-        long long x=num1;
-        for(int k=1; k<36; k++){
-            x-=num2;
-            if (x<k) return -1;
-            if (x>=0 && k>=popcount((unsigned long long)(x))) return k;
+        int t = 0;
+        while(true){
+            long long val = (long long) num1 - (long long)t * num2;
+
+            if(val<0) return -1;
+            if(__builtin_popcountll(val) <= t && t<= val){
+                return t;
+            }
+
+            t++;
         }
-        return -1;
     }
 };
+
+//class Solution {
+// public:
+//     int makeTheIntegerZero(int num1, int num2) {
+//         int temp = INT_MAX;
+//         int count = 0;
+//         for(int i=1; i<=60; i++){
+//             int remain = abs(num1 - (1 << i + num2));
+//             if(remain < temp && num1 !=0){
+//                 count++;
+//                 temp = min(temp, remain);
+//                 num1 = remain;
+//             }
+//             else if(num1 == 0){
+//                 return -1;
+//             }
+//         }
+//         return true;
+//     }
+// };
