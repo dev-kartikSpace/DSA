@@ -1,8 +1,8 @@
 class Solution {
 public:
     bool closeStrings(std::string word1, std::string word2) {
-        vector<int> freq1(26, 0);
-        vector<int> freq2(26, 0);
+        std::vector<int> freq1(26, 0);
+        std::vector<int> freq2(26, 0);
 
         for (char ch : word1) {
             freq1[ch - 'a']++;
