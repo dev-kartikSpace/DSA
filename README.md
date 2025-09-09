@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dev-kartikSpace/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/dev-kartikSpace/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/dev-kartikSpace/DSA/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/dev-kartikSpace/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/dev-kartikSpace/DSA/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/dev-kartikSpace/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Bit Manipulation
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/dev-kartikSpace/DSA/tree/master/0954-maximum-sum-circular-subarray) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/dev-kartikSpace/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/dev-kartikSpace/DSA/tree/master/0498-diagonal-traverse) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/dev-kartikSpace/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Linked List
 |  |
 | ------- |
