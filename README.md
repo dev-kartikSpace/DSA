@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/dev-kartikSpace/DSA/tree/master/1129-longest-string-chain) |
 | [1777-determine-if-two-strings-are-close](https://github.com/dev-kartikSpace/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/dev-kartikSpace/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/dev-kartikSpace/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dev-kartikSpace/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/dev-kartikSpace/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/dev-kartikSpace/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/dev-kartikSpace/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/dev-kartikSpace/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/dev-kartikSpace/DSA/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/dev-kartikSpace/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/dev-kartikSpace/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/dev-kartikSpace/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1448-maximum-69-number](https://github.com/dev-kartikSpace/DSA/tree/master/1448-maximum-69-number) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/dev-kartikSpace/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/dev-kartikSpace/DSA/tree/master/1917-maximum-average-pass-ratio) |
 ## Divide and Conquer
 |  |
