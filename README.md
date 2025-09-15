@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/dev-kartikSpace/DSA/tree/master/0900-reordered-power-of-2) |
 | [1006-vowel-spellchecker](https://github.com/dev-kartikSpace/DSA/tree/master/1006-vowel-spellchecker) |
 | [1129-longest-string-chain](https://github.com/dev-kartikSpace/DSA/tree/master/1129-longest-string-chain) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/dev-kartikSpace/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1777-determine-if-two-strings-are-close](https://github.com/dev-kartikSpace/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/dev-kartikSpace/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/dev-kartikSpace/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/dev-kartikSpace/DSA/tree/master/1129-longest-string-chain) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dev-kartikSpace/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/dev-kartikSpace/DSA/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/dev-kartikSpace/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/dev-kartikSpace/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dev-kartikSpace/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/dev-kartikSpace/DSA/tree/master/1777-determine-if-two-strings-are-close) |
