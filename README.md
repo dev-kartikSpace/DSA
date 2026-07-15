@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/dev-kartikSpace/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dev-kartikSpace/DSA/tree/master/0049-group-anagrams) |
+| [0059-spiral-matrix-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/dev-kartikSpace/DSA/tree/master/0078-subsets) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/dev-kartikSpace/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/dev-kartikSpace/DSA/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/dev-kartikSpace/DSA/tree/master/0079-word-search) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/dev-kartikSpace/DSA/tree/master/0498-diagonal-traverse) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/dev-kartikSpace/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Linked List
