@@ -1,41 +1,39 @@
 class Solution {
 public:
     vector<vector<int>> generateMatrix(int n) {
-        int right  = n-1;
+        int right = n - 1;
         int left = 0;
-        int bottom = n-1;
+        int bottom = n - 1;
         int top = 0;
 
         int count = 1;
-        vector<vector<int>> ans(n, vector<int>(n,0));
-        while(top <= bottom && left <= right){
+        vector<vector<int>> ans(n, vector<int>(n, 0));
+        while (top <= bottom && left <= right) {
 
-            for(int j = left; j <= right; j++){
+            for (int j = left; j <= right; j++) {
                 ans[top][j] = count;
                 count++;
             }
-            top ++;
+            top++;
 
-            for(int i = top; i <= bottom; i++){
+            for (int i = top; i <= bottom; i++) {
                 ans[i][right] = count;
                 count++;
             }
             right--;
 
-            if(top <= bottom){
-                for(int j = right; j >= left; j--){
-                    ans[bottom][j] = count;
-                    count++;
-                }
+            for (int j = right; j >= left; j--) {
+                ans[bottom][j] = count;
+                count++;
             }
 
-            bottom --;
+            bottom--;
 
-            for(int i = bottom; i >= top; i--){
+            for (int i = bottom; i >= top; i--) {
                 ans[i][left] = count;
-                count ++;
+                count++;
             }
-            left ++;
+            left++;
         }
         return ans;
     }
