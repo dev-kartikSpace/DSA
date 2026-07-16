@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/dev-kartikSpace/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/dev-kartikSpace/DSA/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/dev-kartikSpace/DSA/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/dev-kartikSpace/DSA/tree/master/0169-majority-element) |
 | [0355-design-twitter](https://github.com/dev-kartikSpace/DSA/tree/master/0355-design-twitter) |
 | [0816-design-hashset](https://github.com/dev-kartikSpace/DSA/tree/master/0816-design-hashset) |
 | [0900-reordered-power-of-2](https://github.com/dev-kartikSpace/DSA/tree/master/0900-reordered-power-of-2) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/dev-kartikSpace/DSA/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dev-kartikSpace/DSA/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/dev-kartikSpace/DSA/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0368-largest-divisible-subset](https://github.com/dev-kartikSpace/DSA/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/dev-kartikSpace/DSA/tree/master/0646-maximum-length-of-pair-chain) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dev-kartikSpace/DSA/tree/master/0169-majority-element) |
 | [0900-reordered-power-of-2](https://github.com/dev-kartikSpace/DSA/tree/master/0900-reordered-power-of-2) |
 | [1777-determine-if-two-strings-are-close](https://github.com/dev-kartikSpace/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 ## Enumeration
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/dev-kartikSpace/DSA/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/dev-kartikSpace/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/dev-kartikSpace/DSA/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/dev-kartikSpace/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/dev-kartikSpace/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0213-house-robber-ii) |
 | [0324-wiggle-sort-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0324-wiggle-sort-ii) |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/dev-kartikSpace/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/dev-kartikSpace/DSA/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/dev-kartikSpace/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 ## Queue
