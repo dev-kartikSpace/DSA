@@ -2,23 +2,20 @@ class Solution {
 public:
     int majorityElement(vector<int>& nums) {
         sort(nums.begin(), nums.end());
-        int maxRepCount = 1;
-        int majElement = nums[0];
+        
+        int n = nums.size();
+        unordered_map<int, int> m;
 
-        for(int i = 0; i< nums.size();){
-            int count = 1;
-            int j = i + 1;
-            int currEl = nums[i];
-            while(j < nums.size() && nums[i] == nums[j]){
-                count ++;
-                j++;
-            }
-            if(count >= maxRepCount ){
-                maxRepCount = count;
-                majElement = nums[i];
-            }
-            i = j;
+        for(int i = 0; i< nums.size();i++){
+            m[nums[i]]++;
         }
-        return majElement;
+        n = n/2;
+        for(auto x : m){
+            if(x.second > n){
+                return x.first;
+            }
+        }
+
+        return 0;
     }
 };
