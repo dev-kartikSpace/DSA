@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/dev-kartikSpace/DSA/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dev-kartikSpace/DSA/tree/master/0049-group-anagrams) |
 | [0324-wiggle-sort-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0324-wiggle-sort-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/dev-kartikSpace/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/dev-kartikSpace/DSA/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/dev-kartikSpace/DSA/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/dev-kartikSpace/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/dev-kartikSpace/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0039-combination-sum) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dev-kartikSpace/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/dev-kartikSpace/DSA/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/dev-kartikSpace/DSA/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/dev-kartikSpace/DSA/tree/master/0086-partition-list) |
