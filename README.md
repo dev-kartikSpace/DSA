@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/dev-kartikSpace/DSA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/dev-kartikSpace/DSA/tree/master/0419-battleships-in-a-board) |
+| [0493-reverse-pairs](https://github.com/dev-kartikSpace/DSA/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/dev-kartikSpace/DSA/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0518-coin-change-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dev-kartikSpace/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0493-reverse-pairs](https://github.com/dev-kartikSpace/DSA/tree/master/0493-reverse-pairs) |
 | [0907-koko-eating-bananas](https://github.com/dev-kartikSpace/DSA/tree/master/0907-koko-eating-bananas) |
 ## Two Pointers
 |  |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/dev-kartikSpace/DSA/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0324-wiggle-sort-ii) |
+| [0493-reverse-pairs](https://github.com/dev-kartikSpace/DSA/tree/master/0493-reverse-pairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/dev-kartikSpace/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -482,9 +485,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/dev-kartikSpace/DSA/tree/master/0493-reverse-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/dev-kartikSpace/DSA/tree/master/2429-design-a-food-rating-system) |
 ## Quickselect
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0324-wiggle-sort-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/dev-kartikSpace/DSA/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/dev-kartikSpace/DSA/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/dev-kartikSpace/DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
