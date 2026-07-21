@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/dev-kartikSpace/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/dev-kartikSpace/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/dev-kartikSpace/DSA/tree/master/2887-sort-vowels-in-a-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/dev-kartikSpace/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/dev-kartikSpace/DSA/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/dev-kartikSpace/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2529-range-product-queries-of-powers](https://github.com/dev-kartikSpace/DSA/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/dev-kartikSpace/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/dev-kartikSpace/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/dev-kartikSpace/DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Prefix Sum
 |  |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/dev-kartikSpace/DSA/tree/master/0679-24-game) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/dev-kartikSpace/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/dev-kartikSpace/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
 |  |
 | ------- |
