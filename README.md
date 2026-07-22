@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/dev-kartikSpace/DSA/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/dev-kartikSpace/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0900-reordered-power-of-2](https://github.com/dev-kartikSpace/DSA/tree/master/0900-reordered-power-of-2) |
+| [0922-sort-array-by-parity-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1129-longest-string-chain](https://github.com/dev-kartikSpace/DSA/tree/master/1129-longest-string-chain) |
 | [1777-determine-if-two-strings-are-close](https://github.com/dev-kartikSpace/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/dev-kartikSpace/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/dev-kartikSpace/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0816-design-hashset](https://github.com/dev-kartikSpace/DSA/tree/master/0816-design-hashset) |
 | [0907-koko-eating-bananas](https://github.com/dev-kartikSpace/DSA/tree/master/0907-koko-eating-bananas) |
+| [0922-sort-array-by-parity-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/dev-kartikSpace/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1006-vowel-spellchecker](https://github.com/dev-kartikSpace/DSA/tree/master/1006-vowel-spellchecker) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/dev-kartikSpace/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/dev-kartikSpace/DSA/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/dev-kartikSpace/DSA/tree/master/0647-palindromic-substrings) |
+| [0922-sort-array-by-parity-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1129-longest-string-chain](https://github.com/dev-kartikSpace/DSA/tree/master/1129-longest-string-chain) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/dev-kartikSpace/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/dev-kartikSpace/DSA/tree/master/1894-merge-strings-alternately) |
