@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/dev-kartikSpace/DSA/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dev-kartikSpace/DSA/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/dev-kartikSpace/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/dev-kartikSpace/DSA/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0368-largest-divisible-subset](https://github.com/dev-kartikSpace/DSA/tree/master/0368-largest-divisible-subset) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/dev-kartikSpace/DSA/tree/master/0086-partition-list) |
+| [0148-sort-list](https://github.com/dev-kartikSpace/DSA/tree/master/0148-sort-list) |
 | [0392-is-subsequence](https://github.com/dev-kartikSpace/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/dev-kartikSpace/DSA/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/dev-kartikSpace/DSA/tree/master/0647-palindromic-substrings) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/dev-kartikSpace/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/dev-kartikSpace/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/dev-kartikSpace/DSA/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0493-reverse-pairs](https://github.com/dev-kartikSpace/DSA/tree/master/0493-reverse-pairs) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dev-kartikSpace/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0148-sort-list](https://github.com/dev-kartikSpace/DSA/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/dev-kartikSpace/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0355-design-twitter](https://github.com/dev-kartikSpace/DSA/tree/master/0355-design-twitter) |
 | [0445-add-two-numbers-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0445-add-two-numbers-ii) |
@@ -521,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/dev-kartikSpace/DSA/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/dev-kartikSpace/DSA/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/dev-kartikSpace/DSA/tree/master/0912-sort-an-array) |
 ## Bucket Sort
