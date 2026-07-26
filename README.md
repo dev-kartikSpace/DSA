@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dev-kartikSpace/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/dev-kartikSpace/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/dev-kartikSpace/DSA/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/dev-kartikSpace/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/dev-kartikSpace/DSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/dev-kartikSpace/DSA/tree/master/0169-majority-element) |
 | [0355-design-twitter](https://github.com/dev-kartikSpace/DSA/tree/master/0355-design-twitter) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dev-kartikSpace/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/dev-kartikSpace/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/dev-kartikSpace/DSA/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/dev-kartikSpace/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0355-design-twitter](https://github.com/dev-kartikSpace/DSA/tree/master/0355-design-twitter) |
