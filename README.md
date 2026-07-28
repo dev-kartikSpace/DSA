@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/dev-kartikSpace/DSA/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/dev-kartikSpace/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/dev-kartikSpace/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dev-kartikSpace/DSA/tree/master/0049-group-anagrams) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/dev-kartikSpace/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/dev-kartikSpace/DSA/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/dev-kartikSpace/DSA/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/dev-kartikSpace/DSA/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/dev-kartikSpace/DSA/tree/master/0086-partition-list) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dev-kartikSpace/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/dev-kartikSpace/DSA/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/dev-kartikSpace/DSA/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/dev-kartikSpace/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0064-minimum-path-sum) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dev-kartikSpace/DSA/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dev-kartikSpace/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dev-kartikSpace/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/dev-kartikSpace/DSA/tree/master/0316-remove-duplicate-letters) |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dev-kartikSpace/DSA/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/dev-kartikSpace/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/dev-kartikSpace/DSA/tree/master/0402-remove-k-digits) |
 | [1628-count-submatrices-with-all-ones](https://github.com/dev-kartikSpace/DSA/tree/master/1628-count-submatrices-with-all-ones) |
