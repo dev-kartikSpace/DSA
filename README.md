@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/dev-kartikSpace/DSA/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/dev-kartikSpace/DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/dev-kartikSpace/DSA/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/dev-kartikSpace/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/dev-kartikSpace/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/dev-kartikSpace/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/dev-kartikSpace/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/dev-kartikSpace/DSA/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/dev-kartikSpace/DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/dev-kartikSpace/DSA/tree/master/0901-online-stock-span) |
 | [1628-count-submatrices-with-all-ones](https://github.com/dev-kartikSpace/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 ## Simulation
 |  |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0355-design-twitter](https://github.com/dev-kartikSpace/DSA/tree/master/0355-design-twitter) |
 | [0816-design-hashset](https://github.com/dev-kartikSpace/DSA/tree/master/0816-design-hashset) |
+| [0901-online-stock-span](https://github.com/dev-kartikSpace/DSA/tree/master/0901-online-stock-span) |
 | [2429-design-a-food-rating-system](https://github.com/dev-kartikSpace/DSA/tree/master/2429-design-a-food-rating-system) |
 ## Hash Function
 |  |
@@ -574,4 +577,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/dev-kartikSpace/DSA/tree/master/0912-sort-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/dev-kartikSpace/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
