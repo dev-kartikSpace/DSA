@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/dev-kartikSpace/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/dev-kartikSpace/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/dev-kartikSpace/DSA/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2104-sum-of-subarray-ranges](https://github.com/dev-kartikSpace/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/dev-kartikSpace/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/dev-kartikSpace/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/dev-kartikSpace/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/dev-kartikSpace/DSA/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/dev-kartikSpace/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/dev-kartikSpace/DSA/tree/master/1628-count-submatrices-with-all-ones) |
+| [2104-sum-of-subarray-ranges](https://github.com/dev-kartikSpace/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/dev-kartikSpace/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/dev-kartikSpace/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/dev-kartikSpace/DSA/tree/master/0901-online-stock-span) |
 | [1628-count-submatrices-with-all-ones](https://github.com/dev-kartikSpace/DSA/tree/master/1628-count-submatrices-with-all-ones) |
+| [2104-sum-of-subarray-ranges](https://github.com/dev-kartikSpace/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |
