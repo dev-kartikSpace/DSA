@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/dev-kartikSpace/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/dev-kartikSpace/DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/dev-kartikSpace/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/dev-kartikSpace/DSA/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dev-kartikSpace/DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/dev-kartikSpace/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/dev-kartikSpace/DSA/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dev-kartikSpace/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dev-kartikSpace/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dev-kartikSpace/DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/dev-kartikSpace/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/dev-kartikSpace/DSA/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/dev-kartikSpace/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/dev-kartikSpace/DSA/tree/master/0402-remove-k-digits) |
