@@ -14,7 +14,7 @@ public:
 
             dq.push_back(i);
 
-            if(i>=k-1) ans.push_back(nums[dq.front()]);
+            if(i>=k-1) ans.push_back(nums[dq.front()]); //kyunki pehle k ke baad answer milna start hoga
             
         }
         return ans;
