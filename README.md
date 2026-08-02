@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dev-kartikSpace/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/dev-kartikSpace/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0213-house-robber-ii) |
+| [0239-sliding-window-maximum](https://github.com/dev-kartikSpace/DSA/tree/master/0239-sliding-window-maximum) |
 | [0324-wiggle-sort-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/dev-kartikSpace/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/dev-kartikSpace/DSA/tree/master/0368-largest-divisible-subset) |
@@ -382,16 +383,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/dev-kartikSpace/DSA/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/dev-kartikSpace/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [2073-time-needed-to-buy-tickets](https://github.com/dev-kartikSpace/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/dev-kartikSpace/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/dev-kartikSpace/DSA/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/dev-kartikSpace/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/dev-kartikSpace/DSA/tree/master/0239-sliding-window-maximum) |
 | [0867-new-21-game](https://github.com/dev-kartikSpace/DSA/tree/master/0867-new-21-game) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dev-kartikSpace/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dev-kartikSpace/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -502,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/dev-kartikSpace/DSA/tree/master/0239-sliding-window-maximum) |
 | [0355-design-twitter](https://github.com/dev-kartikSpace/DSA/tree/master/0355-design-twitter) |
 | [0912-sort-an-array](https://github.com/dev-kartikSpace/DSA/tree/master/0912-sort-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/dev-kartikSpace/DSA/tree/master/1917-maximum-average-pass-ratio) |
