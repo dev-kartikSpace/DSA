@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/dev-kartikSpace/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/dev-kartikSpace/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/dev-kartikSpace/DSA/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2073-time-needed-to-buy-tickets](https://github.com/dev-kartikSpace/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/dev-kartikSpace/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/dev-kartikSpace/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/dev-kartikSpace/DSA/tree/master/2429-design-a-food-rating-system) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/dev-kartikSpace/DSA/tree/master/0954-maximum-sum-circular-subarray) |
+| [2073-time-needed-to-buy-tickets](https://github.com/dev-kartikSpace/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/dev-kartikSpace/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Monotonic Queue
 |  |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/dev-kartikSpace/DSA/tree/master/0498-diagonal-traverse) |
+| [2073-time-needed-to-buy-tickets](https://github.com/dev-kartikSpace/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/dev-kartikSpace/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Linked List
 |  |
