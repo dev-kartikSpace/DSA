@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/dev-kartikSpace/DSA/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0226-invert-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/dev-kartikSpace/DSA/tree/master/0419-battleships-in-a-board) |
+| [0617-merge-two-binary-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/dev-kartikSpace/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Tree
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dev-kartikSpace/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0930-all-possible-full-binary-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0930-all-possible-full-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/dev-kartikSpace/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dev-kartikSpace/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0930-all-possible-full-binary-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0930-all-possible-full-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/dev-kartikSpace/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/dev-kartikSpace/DSA/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Brainteaser
 |  |
