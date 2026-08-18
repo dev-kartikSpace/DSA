@@ -22,7 +22,7 @@ void inorder(TreeNode* root){
     inorder(root->left);
 
     if(prev != NULL && prev -> val > root->val){
-        if(!first) first = prev;
+        if(first == nullptr) first = prev;
         second = root;
     }
     prev = root;
