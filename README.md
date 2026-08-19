@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/dev-kartikSpace/DSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/dev-kartikSpace/DSA/tree/master/0169-majority-element) |
 | [0355-design-twitter](https://github.com/dev-kartikSpace/DSA/tree/master/0355-design-twitter) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/dev-kartikSpace/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0816-design-hashset](https://github.com/dev-kartikSpace/DSA/tree/master/0816-design-hashset) |
 | [0900-reordered-power-of-2](https://github.com/dev-kartikSpace/DSA/tree/master/0900-reordered-power-of-2) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/dev-kartikSpace/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/dev-kartikSpace/DSA/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/dev-kartikSpace/DSA/tree/master/0647-palindromic-substrings) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/dev-kartikSpace/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0922-sort-array-by-parity-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1129-longest-string-chain](https://github.com/dev-kartikSpace/DSA/tree/master/1129-longest-string-chain) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/dev-kartikSpace/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0226-invert-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/dev-kartikSpace/DSA/tree/master/0419-battleships-in-a-board) |
 | [0617-merge-two-binary-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0617-merge-two-binary-trees) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/dev-kartikSpace/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/dev-kartikSpace/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1382-balance-a-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dev-kartikSpace/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0617-merge-two-binary-trees) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/dev-kartikSpace/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0930-all-possible-full-binary-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0930-all-possible-full-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dev-kartikSpace/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/dev-kartikSpace/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dev-kartikSpace/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -487,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dev-kartikSpace/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0617-merge-two-binary-trees) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/dev-kartikSpace/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0930-all-possible-full-binary-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0930-all-possible-full-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dev-kartikSpace/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -579,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/dev-kartikSpace/DSA/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0617-merge-two-binary-trees) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/dev-kartikSpace/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Brainteaser
 |  |
