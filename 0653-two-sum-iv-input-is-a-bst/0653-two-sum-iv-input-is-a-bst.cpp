@@ -11,25 +11,13 @@
  */
 class Solution {
 public:
-    void Inorder(TreeNode* node, vector<int> &ans){
-        if(!node) return;
-
-        Inorder(node->left, ans);
-        ans.push_back(node->val);
-        Inorder(node->right, ans);
-
-    }
+unordered_set<int> set;
     bool findTarget(TreeNode* root, int k) {
-        //i will store it in an array then find if i + j == k
-        vector<int> ans;
-        
-        Inorder(root, ans);
+        if(!root) return false;
 
-        for(int i = 0; i< ans.size(); i++){
-            for(int j = i+1; j<ans.size(); j++){
-                if( k == ans[i] + ans[j]) return true;
-            }
-        }
-        return false;
+        if(set.count(k - root->val)) return true;
+        set.insert(root->val);
+
+        return findTarget(root->left, k) || findTarget(root->right, k);
     }
 };
