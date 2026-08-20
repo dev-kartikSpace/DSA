@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dev-kartikSpace/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/dev-kartikSpace/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/dev-kartikSpace/DSA/tree/master/1894-merge-strings-alternately) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dev-kartikSpace/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/dev-kartikSpace/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/dev-kartikSpace/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/dev-kartikSpace/DSA/tree/master/2887-sort-vowels-in-a-string) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/dev-kartikSpace/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1382-balance-a-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dev-kartikSpace/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Tree
 |  |
 | ------- |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dev-kartikSpace/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/dev-kartikSpace/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1382-balance-a-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dev-kartikSpace/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dev-kartikSpace/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/dev-kartikSpace/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1382-balance-a-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dev-kartikSpace/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Stack
 |  |
 | ------- |
@@ -675,8 +679,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dev-kartikSpace/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dev-kartikSpace/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
