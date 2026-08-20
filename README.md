@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/dev-kartikSpace/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dev-kartikSpace/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0930-all-possible-full-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/dev-kartikSpace/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dev-kartikSpace/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dev-kartikSpace/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/dev-kartikSpace/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dev-kartikSpace/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0930-all-possible-full-binary-trees](https://github.com/dev-kartikSpace/DSA/tree/master/0930-all-possible-full-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
