@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/dev-kartikSpace/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/dev-kartikSpace/DSA/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/dev-kartikSpace/DSA/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0355-design-twitter](https://github.com/dev-kartikSpace/DSA/tree/master/0355-design-twitter) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dev-kartikSpace/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0816-design-hashset](https://github.com/dev-kartikSpace/DSA/tree/master/0816-design-hashset) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/dev-kartikSpace/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/dev-kartikSpace/DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/dev-kartikSpace/DSA/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0273-integer-to-english-words](https://github.com/dev-kartikSpace/DSA/tree/master/0273-integer-to-english-words) |
 | [0316-remove-duplicate-letters](https://github.com/dev-kartikSpace/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/dev-kartikSpace/DSA/tree/master/0392-is-subsequence) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/dev-kartikSpace/DSA/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0208-implement-trie-prefix-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -637,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0355-design-twitter](https://github.com/dev-kartikSpace/DSA/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dev-kartikSpace/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/dev-kartikSpace/DSA/tree/master/0816-design-hashset) |
