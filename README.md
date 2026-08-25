@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1129-longest-string-chain](https://github.com/dev-kartikSpace/DSA/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/dev-kartikSpace/DSA/tree/master/1250-longest-common-subsequence) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dev-kartikSpace/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/dev-kartikSpace/DSA/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dev-kartikSpace/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/dev-kartikSpace/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dev-kartikSpace/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Tree
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dev-kartikSpace/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/dev-kartikSpace/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dev-kartikSpace/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Search Tree
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dev-kartikSpace/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dev-kartikSpace/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -527,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dev-kartikSpace/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/dev-kartikSpace/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dev-kartikSpace/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Stack
@@ -699,4 +704,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/dev-kartikSpace/DSA/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## DP on Trees
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
