@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dev-kartikSpace/DSA/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0355-design-twitter](https://github.com/dev-kartikSpace/DSA/tree/master/0355-design-twitter) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/dev-kartikSpace/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dev-kartikSpace/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0816-design-hashset](https://github.com/dev-kartikSpace/DSA/tree/master/0816-design-hashset) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/dev-kartikSpace/DSA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/dev-kartikSpace/DSA/tree/master/0419-battleships-in-a-board) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/dev-kartikSpace/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0493-reverse-pairs](https://github.com/dev-kartikSpace/DSA/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/dev-kartikSpace/DSA/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/dev-kartikSpace/DSA/tree/master/0498-diagonal-traverse) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0090-subsets-ii) |
 | [0338-counting-bits](https://github.com/dev-kartikSpace/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/dev-kartikSpace/DSA/tree/master/0342-power-of-four) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/dev-kartikSpace/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/dev-kartikSpace/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2529-range-product-queries-of-powers](https://github.com/dev-kartikSpace/DSA/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/dev-kartikSpace/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -625,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/dev-kartikSpace/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/dev-kartikSpace/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/dev-kartikSpace/DSA/tree/master/0212-word-search-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/dev-kartikSpace/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Breadth-First Search
 |  |
 | ------- |
